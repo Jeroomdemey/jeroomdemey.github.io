@@ -211,9 +211,7 @@ input[type=submit]:hover {
 	width:auto;
 	float: none;
 	padding: 150px 75px 75px 75px;
-	font-size: 75px;
-	color: #2d2691;	
-		text-align: center;
+	text-align: center;
 }
 	.leftblock {
 	float: none;
